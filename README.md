@@ -1,0 +1,2 @@
+# Skirpsiku
+tugas skripsiku
